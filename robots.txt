@@ -1,8 +1,3 @@
-# TAT ARA — https://tatara.cat
-# El panell d'administració no té res que indexar i, tot i que demana
-# contrasenya, no cal que surti als cercadors.
+# v0 arxivat: la web de veritat és https://tatara.cat
 User-agent: *
-Disallow: /admin/
-Allow: /
-
-Sitemap: https://tatara.cat/sitemap.xml
+Disallow: /

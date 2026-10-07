@@ -1,3 +1,13 @@
+> **v0 arxivat.** Aquest és el primer disseny de la web de TAT ARA (blocs de
+> color a l'agenda, tres columnes, menú desplegable), guardat tal com estava el
+> 6 d'octubre de 2026, abans del redisseny en blanc i negre. La web actual viu a
+> [meowrhino/tatara](https://github.com/meowrhino/tatara) i a https://tatara.cat.
+>
+> Es pot veure a https://meowrhino.github.io/tatarav0/ — només la part visual:
+> GitHub Pages no executa PHP, així que la botiga, el butlletí i el carret no
+> funcionen. El backend (`api/`, PHP + MySQL per a Pangea) hi és sencer, com a
+> llavor per reaprofitar.
+
 # TAT ARA — web
 
 Web de **TAT ARA**, espai galeria d'art, disseny i ecologia (Barcelona).
